@@ -1,0 +1,11 @@
+public class Max
+
+{  
+    public static void main(String args[])  
+    {  
+        int x = 12;  
+        int y = 15;  
+        //print the maximum of two numbers   
+        System.out.println(Math.max(x, y));  
+    }  
+}  
